@@ -11,3 +11,5 @@ Run the program:
 Output: It creates a new JSON file "summary_final_records.json" where the new summary records are created from the "sample_output.json" information.
 
 Comments: Program is functional and optimal to handle very large input files.
+
+Complexity: Only one iteration to the JSON data was needed to create the new summary records (O(linear time)). This ensures efficiency by matching END with START records with a dictionary (O(constant time)). See code to undestand logic.
