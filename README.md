@@ -9,3 +9,5 @@ Run the program:
 3. Run the following command: python3 main.py or python main.py (depending of your Python's version)
 
 Output: It creates a new JSON file "summary_final_records.json" where the new summary records are created from the "sample_output.json" information.
+
+Comments: Program is functional and optimal to handle very large input files.
